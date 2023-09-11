@@ -33,7 +33,7 @@
         nav_layer {
             bindings = <
        &kp TAB      &none  &kp LC(TAB)  &kp LC(E)              &none  &kp LC(R)        &kp HOME     &kp PG_DN     &kp PG_UP         &none         &none         &kp BSPC
-&mt LCTRL CAPS  &kp LC(A)    &kp LC(S)  &kp LC(X)          &kp LC(V)  &kp LC(C)        &kp LEFT      &kp DOWN        &kp UP     &kp RIGHT     &kp RCTRL            &BT_CLR
+&mt LCTRL CAPS  &kp LC(A)    &kp LC(S)  &kp LC(X)          &kp LC(V)  &kp LC(C)        &kp LEFT      &kp DOWN        &kp UP     &kp RIGHT     &kp RCTRL         &bt BT_CLR
      &kp LSHFT     &trans        &none      &none      &kp LC(LS(Z))  &kp LC(Z)    &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &kp RIGHT_SHIFT
                                          &kp LGUI  &mt RIGHT_ALT RET      &mo 2           &mo 1     &kp SPACE     &kp RCTRL
             >;
